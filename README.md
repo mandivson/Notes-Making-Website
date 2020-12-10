@@ -8,4 +8,4 @@ This is a Note Making App for making notes with features of add a note, delete a
 
 # How do I run this?
 
-To view the website, open index.html using a browser or [CLICK HERE](https://mandivson.github.io/Notes-Making-Website/)
+To view the website, [CLICK HERE](https://mandivson.github.io/Notes-Making-Website/)

@@ -4,7 +4,7 @@ This is a Note Making App for making notes with features of add a note, delete a
 
 # How does it Look Like ?
 
-![alt text](https://github.com/mandivson/Notes-Making-Website/blob/master/image.png)
+![alt text](https://github.com/mandivson/Notes-Making-Website/blob/master/notes_img.png)
 
 # How do I run this?
 
